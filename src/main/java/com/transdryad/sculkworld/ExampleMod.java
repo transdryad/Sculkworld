@@ -1,4 +1,4 @@
-package com.transdryad.skulkworld;
+package com.transdryad.sculkworld;
 
 import net.fabricmc.api.ModInitializer;
 
@@ -9,7 +9,7 @@ public class ExampleMod implements ModInitializer {
 	// This logger is used to write text to the console and the log file.
 	// It is considered best practice to use your mod id as the logger's name.
 	// That way, it's clear which mod wrote info, warnings, and errors.
-    public static final Logger LOGGER = LoggerFactory.getLogger("skulkworld");
+    public static final Logger LOGGER = LoggerFactory.getLogger("sculkworld");
 
 	@Override
 	public void onInitialize() {

@@ -1,4 +1,4 @@
-package com.transdryad.skulkworld.mixin;
+package com.transdryad.sculkworld.mixin;
 
 import net.minecraft.server.MinecraftServer;
 import org.spongepowered.asm.mixin.Mixin;

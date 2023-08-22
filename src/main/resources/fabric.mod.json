@@ -1,8 +1,8 @@
 {
 	"schemaVersion": 1,
-	"id": "skulkworld",
+	"id": "sculkworld",
 	"version": "${version}",
-	"name": "Skulkworld",
+	"name": "sculkworld",
 	"description": "This is an example description! Tell everyone what your mod is about!",
 	"authors": [
 		"Me!"
@@ -12,18 +12,18 @@
 		"sources": "https://github.com/FabricMC/fabric-example-mod"
 	},
 	"license": "CC0-1.0",
-	"icon": "assets/skulkworld/icon.png",
+	"icon": "assets/sculkworld/icon.png",
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-			"com.transdryad.skulkworld.ExampleMod"
+			"com.transdryad.sculkworld.ExampleMod"
 		],
 		"fabric-datagen": [
-			"com.transdryad.skulkworld.ExampleModDataGenerator"
+			"com.transdryad.sculkworld.ExampleModDataGenerator"
 		]
 	},
 	"mixins": [
-		"skulkworld.mixins.json"
+		"sculkworld.mixins.json"
 	],
 	"depends": {
 		"fabricloader": ">=0.14.22",
