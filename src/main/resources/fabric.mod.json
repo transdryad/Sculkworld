@@ -5,13 +5,13 @@
 	"name": "sculkworld",
 	"description": "This is an example description! Tell everyone what your mod is about!",
 	"authors": [
-		"Me!"
+		"transdryad"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"homepage": "https://modrinth.com/mod/sculkworld",
+		"sources": "https://github.com/transdryad/Sculkworld"
 	},
-	"license": "CC0-1.0",
+	"license": "gplv3",
 	"icon": "assets/sculkworld/icon.png",
 	"environment": "*",
 	"entrypoints": {

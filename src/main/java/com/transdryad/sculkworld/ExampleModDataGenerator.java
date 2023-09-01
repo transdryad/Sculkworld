@@ -1,3 +1,4 @@
+
 package com.transdryad.sculkworld;
 
 import net.fabricmc.fabric.api.datagen.v1.DataGeneratorEntrypoint;
