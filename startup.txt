@@ -1,0 +1,14 @@
+ Get JDK 17
+ Get IntelliJ IDEA CE
+ Get git
+run chmod +x gradlew
+run ./gradlew genSources
+explorer menu > Tree Apearance > no compact middle packages or flatten packages
+click on datagen.java
+rightclick on minecraftserver
+choose go to
+then declarations or usages
+after that click on the elephant on the right hand side
+expand tasks
+expand fabric
+doubleclick runClient
