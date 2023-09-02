@@ -1,0 +1,3 @@
+ Get JDK 17
+ Get IntelliJ IDEA CE
+ Get git
