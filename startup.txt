@@ -12,3 +12,4 @@ after that click on the elephant on the right hand side
 expand tasks
 expand fabric
 doubleclick runClient
+use dropdown to select Minecraft Client
