@@ -1,6 +1,8 @@
 {
   "item.sculkworld.shard": "Sculk Shard",
   "item.sculkworld.ingot": "Sculk Ingot",
+  "block.sculkworld.sculk_block": "Sculk Block",
+  "item.sculkworld.sculk_block": "Sculk Block",
 
   "itemgroup.sculk": "Sculk"
 }

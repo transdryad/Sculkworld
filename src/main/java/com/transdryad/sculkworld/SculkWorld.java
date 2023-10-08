@@ -1,5 +1,6 @@
 package com.transdryad.sculkworld;
 
+import com.transdryad.sculkworld.block.ModBlocks;
 import com.transdryad.sculkworld.item.ModItemGroups;
 import com.transdryad.sculkworld.item.ModItems;
 import net.fabricmc.api.ModInitializer;
@@ -15,5 +16,6 @@ public class SculkWorld implements ModInitializer {
 	public void onInitialize() {
 		ModItemGroups.registerItemGroups();
 		ModItems.registerModItems();
+		ModBlocks.registerModBlocks();
 	}
 }

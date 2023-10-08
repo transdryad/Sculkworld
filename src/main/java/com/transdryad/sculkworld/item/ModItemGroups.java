@@ -1,6 +1,7 @@
 package com.transdryad.sculkworld.item;
 
 import com.transdryad.sculkworld.SculkWorld;
+import com.transdryad.sculkworld.block.ModBlocks;
 import net.fabricmc.fabric.api.itemgroup.v1.FabricItemGroup;
 import net.minecraft.item.ItemGroup;
 import net.minecraft.item.ItemStack;
@@ -16,6 +17,7 @@ public class ModItemGroups {
                     .icon(() -> new ItemStack(ModItems.INGOT)).entries((displayContext, entries) -> {
                         entries.add(ModItems.SHARD);
                         entries.add(ModItems.INGOT);
+                        entries.add(ModBlocks.SCULK_BLOCK);
                     }).build());
 
     public static void registerItemGroups() {
